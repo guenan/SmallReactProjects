@@ -2,3 +2,5 @@
 	npx create-react-app jsx
 - run react project 
 	npm start
+- install package/module
+	npm install packageName --global
