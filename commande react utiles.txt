@@ -1,0 +1,4 @@
+- create a react project called jsx
+	npx create-react-app jsx
+- run react project 
+	npm start
